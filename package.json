@@ -1,0 +1,22 @@
+{
+  "name": "objectmethods",
+  "version": "1.0.0",
+  "description": "The package containing different methods for Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VineethDShetty/ObjectMethods.git"
+  },
+  "keywords": [
+    "ObjectMethods"
+  ],
+  "author": "VineethDShetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VineethDShetty/ObjectMethods/issues"
+  },
+  "homepage": "https://github.com/VineethDShetty/ObjectMethods#readme"
+}
