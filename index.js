@@ -53,7 +53,7 @@
 
     function sortkeys(...arg){
         let obj=arg[0]
-        console.log(obj)
+       
         var  keys=Object.keys(obj)
         
         if(arg[1]=='d'){
@@ -64,13 +64,12 @@
         else if(arg[1]=='a'){
             keys.sort()
         }
-        console.log(keys)
+        
 
         var obj1={}
 
         keys.forEach(element => {
-            console.log(element)
-            console.log(obj[element])
+            
             obj1[element]=obj[element]
         });
 
@@ -99,7 +98,7 @@
     function pop(obj,pos){
         var position=0
        for (key in obj){
-           console.log(key)
+          
            if(pos==position){
 
                delete obj[key];
