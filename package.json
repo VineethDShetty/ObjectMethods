@@ -1,6 +1,6 @@
 {
   "name": "objectmethods",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The package containing different methods for Objects",
   "main": "index.js",
   "scripts": {
