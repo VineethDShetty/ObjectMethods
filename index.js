@@ -9,6 +9,7 @@
     module.exports.values=values;
     module.exports.entries=entries;
     
+    // Function to Return all the keys
     function keys(obj){
         var a=[]
         for  (key in obj){
@@ -16,6 +17,7 @@
         }
         return a
     }
+    // Function to return the values
     function values(obj){
         var a=[]
         for  (key in obj){
@@ -23,6 +25,7 @@
         }
         return a
     }
+    // Function to return all the entries
     function entries(obj){
         var a=[]
         
@@ -93,7 +96,7 @@
         }
         return obj1
     }
-
+    // Popping element from random postition (pos)
     function pop(obj,pos){
         var position=0
        for (key in obj){
