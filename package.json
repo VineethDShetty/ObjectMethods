@@ -11,7 +11,11 @@
     "url": "git+https://github.com/VineethDShetty/ObjectMethods.git"
   },
   "keywords": [
-    "ObjectMethods"
+    "ObjectMethods",
+    "Objects",
+    "Methods",
+    "Object"
+
   ],
   "author": "VineethDShetty",
   "license": "ISC",
